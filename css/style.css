@@ -1,0 +1,24 @@
+/*
+* StyleCSS by Bijju089
+*/
+
+ body {
+     padding: 20px;
+}
+ a {
+     text-decoration: none;
+}
+ .container {
+     max-width: 800px;
+     margin: 0 auto;
+     padding: 20px;
+}
+ .minecraft {
+     background-color: #000;
+     color: #AAA;
+     display: inline-block;
+     font-family: monospace;
+     letter-spacing: .1em;
+     padding: 0.5em;
+     white-space: pre-wrap;
+}
