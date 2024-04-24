@@ -9,10 +9,10 @@ Bedrock ❌ Not supported
 Feel free to contribute to this project by forking it and commiting changes
 
 ## Live Preview
-[dtoolz.cxstudios.xyz](https://dtoolz.cxstudios.xyz/status.php)
+[Preview ?](https://dev.cxstudios.org/status.php)
 
-## Some Cool Projects
-- GetBootstrap.com
-- MCSRVSTAT.US
-- cxSTUDIOS.xyz
-- mc-servers.tech
+## With the help of
+- Bootstrap5
+- MCSRVSTAT.us
+- cxSTUDIOS.org
+- MCST.io
