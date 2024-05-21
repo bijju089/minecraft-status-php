@@ -1,4 +1,5 @@
 # Minecraft Server Status
+**End of Life ;c**
 Php website to fetch mc server details
 
 ## Supported Protocol
